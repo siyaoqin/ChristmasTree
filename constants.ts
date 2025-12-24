@@ -1,0 +1,33 @@
+
+export const COLORS = {
+  EMERALD: '#043927',
+  DEEP_EMERALD: '#127a54',
+  DARK_EMERALD: '#010a06',
+  GOLD: '#D4AF37',
+  BRIGHT_GOLD: '#FFD700',
+  WHITE_GLOW: '#ffffff',
+  LIGHT_GLOW: '#ffeeaa',
+  CANDY_RED: '#d30000',
+  RUBY: '#9b111e',
+  SAPPHIRE: '#0f52ba',
+  AMBER: '#ffbf00',
+  AMETHYST: '#9966cc',
+  SILVER: '#e0e0e0',
+  GIFT_BLUE: '#0000FF',
+  GIFT_RED: '#FF0000',
+  GIFT_YELLOW: '#FFD700',
+  GIFT_ORANGE: '#FFA500'
+};
+
+export const TREE_CONFIG = {
+  PARTICLE_COUNT: 8500,
+  INNER_NEEDLE_COUNT: 14000,
+  ORNAMENT_COUNT: 350,
+  LIGHT_COUNT: 450,
+  GEOMETRIC_COUNT: 400, // Slightly more for richer variety
+  CANDY_COUNT: 100,
+  BELL_COUNT: 80,
+  HEIGHT: 13,
+  RADIUS: 5.8,
+  SCATTER_RADIUS: 25
+};
